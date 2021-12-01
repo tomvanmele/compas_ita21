@@ -2,7 +2,8 @@ from compas.datastructures import Network
 
 
 class Cablenet(Network):
-    
+    """Cablenet data structure for form finding with networks."""
+
     def __init__(self, *args, **kwargs):
         super(Cablenet, self).__init__(*args, **kwargs)
         self.default_node_attributes.update({

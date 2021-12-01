@@ -3,7 +3,7 @@ from compas.geometry import Vector
 from compas.artists import Artist
 from compas.numerical import dr
 
-from compas_ita21.datastructures.cablenet import Cablenet
+from compas_ita21.datastructures import Cablenet
 
 # ==============================================================================
 # Make Network
