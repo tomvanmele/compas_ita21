@@ -9,6 +9,8 @@ compas_ita21
 .. toctree::
     :maxdepth: 1
 
+    compas_ita21.datastructures
+    compas_ita21.rhino
 
 """
 
